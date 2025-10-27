@@ -4,6 +4,10 @@
 This project models **Zewail City Campus navigation** as a grid-based search problem.  
 It applies fundamental **AI search algorithms** to find optimal paths between buildings while considering obstacles and campus layout constraints.
 
+
+![Map of Zewail City](Map%20of%20Zewail%20City.jpeg)
+
+
 ---
 
 ## Description
